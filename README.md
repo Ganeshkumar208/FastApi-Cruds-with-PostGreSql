@@ -1,6 +1,3 @@
-
-# Telusko Trac - Product Inventory Management
-
 A comprehensive product inventory management system built with FastAPI backend and React frontend, providing seamless tracking and management of product inventory.
 
 ## Features
