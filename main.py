@@ -18,7 +18,7 @@ database_models.Base.metadata.create_all(bind=engine)
 
 @app.get("/greetUser")
 def greetUser():
-    return "Hello Ganesh & Gayatri"
+    return "Hello Ganesh"
  
 products = [
     Products(id=1, name='iPhone 15 Pro', description='6.1-inch Super Retina XDR display, A17 Pro chip, Titanium design', price=999, quantity=25),
